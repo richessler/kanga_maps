@@ -1,0 +1,14 @@
+/*
+* @Author: Richard Hessler
+* @Date:   2014-06-10 18:10:29
+* @Last Modified by:   Richard Hessler
+* @Last Modified time: 2014-06-10 18:19:36
+*/
+
+html,
+body,
+#map-canvas {
+  height: 100%;
+  margin: 0px;
+  padding: 0px
+}
